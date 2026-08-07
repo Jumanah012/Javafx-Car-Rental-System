@@ -2,9 +2,9 @@
 A JavaFX-based car rental management system with role-based access control, Oracle database integration, and an intuitive desktop interface.
 
 
-# Car Rental System
+A desktop-based Car Rental Management System developed using **JavaFX** and **Oracle Database** 
 
-A desktop-based Car Rental Management System developed using **JavaFX** and **Oracle Database** as part of the **CS313 – Advanced Programming Language** course.
+#Course: Advanced  Programming
 
 The system provides a complete car rental workflow through role-based access control, allowing customers, rental agents, and administrators to perform tasks based on their assigned permissions.
 
