@@ -7,7 +7,6 @@ A desktop-based Car Rental Management System developed using **JavaFX** and **Or
 The system provides a complete car rental workflow through role-based access control, allowing customers, rental agents, and administrators to perform tasks based on their assigned permissions.
 
 # Course: Advanced  Programming
-
 ---
 
 ## Features
